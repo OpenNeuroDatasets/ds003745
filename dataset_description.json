@@ -5,7 +5,7 @@
         "Dominic Fareri"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "10.18112/openneuro.ds003745.v1.0.0",
     "Funding": [
         "Startup funds (provided to DVS) from the College of Liberal Arts at Temple University",
         "Scientific Research Network on Decision Neuroscience and Aging [to DVS; Subaward of NIH R24-AG054355 (PI Gregory Samanez-Larkin)]"
