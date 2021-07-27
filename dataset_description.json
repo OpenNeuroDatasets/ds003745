@@ -1,10 +1,8 @@
 {
     "Acknowledgements": "We thank Elizabeth Beard for assistance with task coding, Dennis Desalme, Ben Muzekari, Isaac Levy, Gemma Goldstein, and Srikar Katta for assistance with participant recruitment and data collection, and Jeffrey Dennison for assistance with data processing. DVS was a Research Fellow of the Public Policy Lab at Temple University during the preparation of the manuscript (2019-2020 academic year).",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "David V. Smith",
+        "Dominic Fareri"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
