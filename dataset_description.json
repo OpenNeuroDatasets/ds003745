@@ -10,7 +10,7 @@
         "Startup funds (provided to DVS) from the College of Liberal Arts at Temple University",
         "Scientific Research Network on Decision Neuroscience and Aging [to DVS; Subaward of NIH R24-AG054355 (PI Gregory Samanez-Larkin)]"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "HowToAcknowledge": "If you use these data, please cite our preprint on bioRxiv titled \"Age-Related Differences in Ventral Striatal and Default Mode Network Function During Reciprocated Trust\". doi: https://doi.org/10.1101/2021.07.29.454071\n",
     "License": "CC0",
     "Name": "Social Reward Processing and Decision Making in Younger and Older Adults",
     "ReferencesAndLinks": [
