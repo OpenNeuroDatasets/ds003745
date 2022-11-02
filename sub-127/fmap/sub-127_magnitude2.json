@@ -35,9 +35,13 @@
     "InstitutionalDepartmentName": "Department",
     "IntendedFor": [
         "func/sub-127_task-trust_run-01_bold.nii.gz",
+        "func/sub-127_task-ultimatum_run-01_bold.nii.gz",
+        "func/sub-127_task-ultimatum_run-02_bold.nii.gz",
         "func/sub-127_task-trust_run-05_bold.nii.gz",
         "func/sub-127_task-trust_run-03_bold.nii.gz",
         "func/sub-127_task-trust_run-04_bold.nii.gz",
+        "func/sub-127_task-sharedreward_run-01_bold.nii.gz",
+        "func/sub-127_task-sharedreward_run-02_bold.nii.gz",
         "func/sub-127_task-trust_run-02_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",

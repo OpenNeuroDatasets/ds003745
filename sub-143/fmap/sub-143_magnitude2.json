@@ -34,9 +34,13 @@
     "InstitutionName": "Temple_University_-_Weiss_Hall",
     "InstitutionalDepartmentName": "Department",
     "IntendedFor": [
+        "func/sub-143_task-sharedreward_run-01_bold.nii.gz",
         "func/sub-143_task-trust_run-01_bold.nii.gz",
         "func/sub-143_task-trust_run-02_bold.nii.gz",
-        "func/sub-143_task-trust_run-03_bold.nii.gz"
+        "func/sub-143_task-ultimatum_run-01_bold.nii.gz",
+        "func/sub-143_task-ultimatum_run-02_bold.nii.gz",
+        "func/sub-143_task-trust_run-03_bold.nii.gz",
+        "func/sub-143_task-sharedreward_run-02_bold.nii.gz"
     ],
     "MRAcquisitionType": "2D",
     "MagneticFieldStrength": 3,
