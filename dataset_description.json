@@ -1,23 +1,23 @@
 {
-  "Acknowledgements": "TODO: whom you want to acknowledge",
-  "Authors": [
-    "TODO:",
-    "First1 Last1",
-    "First2 Last2",
-    "..."
-  ],
-  "BIDSVersion": "1.4.1",
-  "DatasetDOI": "TODO: eventually a DOI for the dataset",
-  "Funding": [
-    "TODO",
-    "GRANT #1",
-    "GRANT #2"
-  ],
-  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
-  "Name": "TODO: name of the dataset",
-  "ReferencesAndLinks": [
-    "TODO",
-    "List of papers or websites"
-  ]
+    "Acknowledgements": "We thank Elizabeth Beard for assistance with task coding, Dennis Desalme, Ben Muzekari, Isaac Levy, Gemma Goldstein, and Srikar Katta for assistance with participant recruitment and data collection, and Jeffrey Dennison for assistance with data processing. DVS was a Research Fellow of the Public Policy Lab at Temple University during the preparation of the manuscript (2019-2020 academic year).",
+    "Authors": [
+        "TODO:",
+        "First1 Last1",
+        "First2 Last2",
+        "..."
+    ],
+    "BIDSVersion": "1.4.1",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+        "TODO",
+        "GRANT #1",
+        "GRANT #2"
+    ],
+    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "License": "CC0",
+    "Name": "TODO: name of the dataset",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
 }
