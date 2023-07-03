@@ -1,10 +1,12 @@
 {
     "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
-        "TODO:",
         "David V. Smith",
-        "Dominic Fareri",
-        "..."
+        "Rita M. Ludwig",
+        "Jeffrey B. Dennison",
+        "Crystal Reeck",
+        "Tania Giovannetti",
+        "Dominic S. Fareri"
     ],
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
