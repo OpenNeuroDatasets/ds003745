@@ -15,7 +15,7 @@
         "GRANT #1",
         "GRANT #2"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "HowToAcknowledge": "Please cite Fareri et al., 2022, NeuroImage (https://doi.org/10.1016/j.neuroimage.2022.119267). We are preparing a data paper that can be cited in the future.",
     "License": "CC0",
     "Name": "Social Reward Processing and Decision Making in Younger and Older Adults",
     "ReferencesAndLinks": [
