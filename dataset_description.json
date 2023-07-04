@@ -24,5 +24,7 @@
         "GitHub repository: https://github.com/DVS-Lab/srndna-datapaper",
         "Fareri et al., 2022, NeuroImage: https://doi.org/10.1016/j.neuroimage.2022.119267"
     ],
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "Temple IRB #24452 "
+    ]
 }
