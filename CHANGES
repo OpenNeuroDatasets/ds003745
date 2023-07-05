@@ -1,3 +1,5 @@
+2.0.1 2023-07-05
+  - ignore sub-2* folders since they are only behavioral data
 2.0.0 2023-07-05
   - Add other task data and derivatives
 0.0.1  Initial data acquired
