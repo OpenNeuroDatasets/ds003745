@@ -8,3 +8,4 @@ Behavioural and neuroimaging research has shown that older adults are less sensi
 * sub-2xx participants do not have imaging data because these individuals were the friends of the respective sub-1xx participants. For example, sub-204 was the participant outside the scanner playing the role of the investee while sub-104 was the participant inside the scanner playing the role of the investor
 * The derivatives folder contains subfolders for fmriprep and mriqc outputs. The derivatives folder also contains single-trial estimates and tnsr images. 
 * All code related to this dataset can be found on GitHub (https://github.com/DVS-Lab/srndna-datapaper). This includes sourcedata for the scanner tasks and also stimulus presentation scripts.
+* For convenience, the `code` and `stimuli` subfolders of the GitHub repository have been copied to this dataset. 
