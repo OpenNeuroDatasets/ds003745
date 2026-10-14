@@ -13,14 +13,21 @@
   "EchoTime": 0.567,
   "EchoTrainLength": 314,
   "FlipAngle": 120,
-  "ImageOrientationPatientDICOM": [0.109734, 0.993961, -4.85601e-08, 0.223593, -0.0246849, -0.97437],
+  "ImageOrientationPatientDICOM": [
+    0.109734,
+    0.993961,
+    -4.85601e-08,
+    0.223593,
+    -0.0246849,
+    -0.97437
+  ],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
     "M",
     "ND",
     "NORM"
-],
+  ],
   "ImagingFrequency": 123.246,
   "InPlanePhaseEncodingDirectionDICOM": "ROW",
   "InstitutionAddress": "North_13th_1701_Philadelphia_PA_US_19122",
@@ -53,8 +60,22 @@
   "SequenceVariant": "SK_SP_OSP",
   "SeriesDescription": "T2w-anat_spc_07sag_iso",
   "SeriesNumber": 3,
-  "ShimSetting": [1322, -7137, 6203, 167, -356, 812, 611, 303],
+  "ShimSetting": [
+    1322,
+    -7137,
+    6203,
+    167,
+    -356,
+    812,
+    611,
+    303
+  ],
   "SliceThickness": 1,
   "SoftwareVersions": "syngo_MR_E11",
   "StationName": "AWP166048",
-  "TxRefAmp": 260.097}
+  "TxRefAmp": 260.097,
+  "PulseSequenceType": "Spin echo",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "MatrixCoilMode": "GRAPPA",
+  "NonlinearGradientCorrection": false
+}

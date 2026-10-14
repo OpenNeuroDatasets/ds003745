@@ -1,1 +1,12 @@
-../.git/annex/objects/wk/GJ/MD5E-s1802--8a9c2d3fbc34272e91e49c13d36fb581.py/MD5E-s1802--8a9c2d3fbc34272e91e49c13d36fb581.py
+#!/usr/bin/env python3
+"""Compatibility entry point for Trust LSS EV generation."""
+
+from __future__ import annotations
+
+import sys
+
+from makeSingleTrials import main
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(["trust", *sys.argv[1:]]))

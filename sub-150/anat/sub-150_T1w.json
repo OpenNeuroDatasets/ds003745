@@ -12,7 +12,14 @@
   "DwellTime": 1.24e-05,
   "EchoTime": 0.0022,
   "FlipAngle": 8,
-  "ImageOrientationPatientDICOM": [0.109734, 0.993961, -4.85601e-08, 0.223593, -0.0246849, -0.97437],
+  "ImageOrientationPatientDICOM": [
+    0.109734,
+    0.993961,
+    -4.85601e-08,
+    0.223593,
+    -0.0246849,
+    -0.97437
+  ],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
@@ -20,9 +27,9 @@
     "ND",
     "NORM",
     "FM3",
- "2",
+    "2",
     "FIL"
-],
+  ],
   "ImagingFrequency": 123.246,
   "InPlanePhaseEncodingDirectionDICOM": "ROW",
   "InstitutionAddress": "North_13th_1701_Philadelphia_PA_US_19122",
@@ -56,8 +63,22 @@
   "SequenceVariant": "SK_SP_MP_OSP",
   "SeriesDescription": "T1w-anat_mpg_07sag_iso",
   "SeriesNumber": 5,
-  "ShimSetting": [1322, -7137, 6203, 167, -356, 812, 611, 303],
+  "ShimSetting": [
+    1322,
+    -7137,
+    6203,
+    167,
+    -356,
+    812,
+    611,
+    303
+  ],
   "SliceThickness": 1,
   "SoftwareVersions": "syngo_MR_E11",
   "StationName": "AWP166048",
-  "TxRefAmp": 260.097}
+  "TxRefAmp": 260.097,
+  "PulseSequenceType": "Inversion-recovery gradient echo",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "MatrixCoilMode": "GRAPPA",
+  "NonlinearGradientCorrection": false
+}
